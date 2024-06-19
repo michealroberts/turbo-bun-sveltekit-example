@@ -1,14 +1,8 @@
-# Turborepo Svelte starter
+# Turborepo SvelteKit Bun starter template
 
-This is an official starter Turborepo.
+This is an official starter for Turborepo, using SvelteKit running on 🧅 Bun.
 
-## Using this example
-
-Run the following command:
-
-```sh
-npx create-turbo@latest -e with-svelte
-```
+## Guide
 
 ## What's inside?
 
